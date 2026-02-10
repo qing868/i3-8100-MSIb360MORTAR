@@ -7,3 +7,6 @@ CPU：i3-8100
 内存：威刚 DDR4 2400MHz 8GB 
 硬盘：WD SN570 500GB
 网卡：英特尔 Wi-Fi 6E AX210 160MHz（可以换成免驱网卡）
+
+
+注：macos26不支持
